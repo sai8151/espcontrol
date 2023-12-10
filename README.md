@@ -16,4 +16,3 @@
 **Full Changelog**: https://github.com/sai8151/espcontrol/commits/espcontrol
 
 
-can be used for med-kit
